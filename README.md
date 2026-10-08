@@ -1,2 +1,2 @@
-# automation
-This project is used to practice automation tools
+hello-world
+A repository for creating a "hello world" workflow using GitHub Actions.
